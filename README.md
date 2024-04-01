@@ -19,4 +19,4 @@ About Me:
 
 My Website Portfolio: https://natbates.github.io
 
-Check out my games on Simmer IO at: https://simmer.io/profile#myUploads
+Check out my games on Simmer IO at: https://simmer.io/@nb508
