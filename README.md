@@ -17,5 +17,6 @@ About Me:
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: i love cats!
 
-My Website Portfolio: https://natbates.github.io/
+My Website Portfolio: https://natbates.github.io
+
 Check out my games on Simmer IO at: https://simmer.io/profile#myUploads
