@@ -4,7 +4,6 @@ Currently working on:
 - Pixel Phantom, a indie game which involves action packed PVE and dynamic lighting
 - Simple Chat Bot, a AI powered custom chat bot which lets you talk and interact through a online chat on a website
 
-Please note that the larger games (Cat climbers, Pixel Phantoms and VR Whack a Mole) wont be on the github and will have thier own websites on completion
 
 About Me:
 
