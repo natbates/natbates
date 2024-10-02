@@ -15,6 +15,6 @@ About Me:
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: i love cats!
 
-My Website Portfolio: https://lustrous-speculoos-46bdb3.netlify.app
+My Website Portfolio: https://nathanielbatesportfolio.netlify.app/
 
 Check out my games on Simmer IO at: https://simmer.io/@nb508
