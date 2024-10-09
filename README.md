@@ -9,7 +9,7 @@ About Me:
 
 Links:
 
-My Website Portfolio: https://nathanielbatesportfolio.netlify.app/
-Check out my games on Simmer IO at: https://simmer.io/@nb508
+- My Website Portfolio: https://nathanielbatesportfolio.netlify.app
+- Check out my games on Simmer IO at: https://simmer.io/@nb508
 
 ![alt text](https://ia601507.us.archive.org/17/items/the.bleh.cat/FbJM3njVsAE5MrC-1.jpg)
