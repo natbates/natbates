@@ -5,6 +5,7 @@ Projects in Progress:
 - https://github.com/natbates/Line-Game
 - https://github.com/natbates/Anagram-Solver
 - https://github.com/natbates/DuckChat
+- https://github.com/natbates/Pixel-Phantom
 
 About Me:
 
