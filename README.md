@@ -2,10 +2,10 @@
 Heya, Im Nathaniel - A front end developer for Hastings Direct. 
 
 Projects in Progress:
-- https://github.com/natbates/Line-Game
-- https://github.com/natbates/Anagram-Solver
-- https://github.com/natbates/Duck-Chat
-- https://github.com/natbates/Pixel-Phantom
+- Elaines Website
+- E-commerce Store Website
+- CSS Animation Showcase Website (Front end only)
+- Chrome Extension: Job tracker for LinkedIn (+)
 
 About Me:
 
