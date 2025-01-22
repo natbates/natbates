@@ -2,7 +2,6 @@
 Heya, Im Nathaniel - A front end developer for Hastings Direct. 
 
 Projects in Progress:
-- Elaines Website
 - E-commerce Store Website
 - CSS Animation Showcase Website (Front end only)
 - Chrome Extension: Job tracker for LinkedIn (+)
