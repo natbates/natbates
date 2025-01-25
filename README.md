@@ -12,7 +12,7 @@ About Me:
 
 Links:
 
-- My Website Portfolio: https://nathanielbatesportfolio.netlify.app
+- My Website Portfolio: https://nathanielbates.uk
 - Check out my games on Simmer IO at: https://simmer.io/@nb508
 
 ![alt text](https://i.kym-cdn.com/photos/images/facebook/002/432/394/1e1.jpg)
