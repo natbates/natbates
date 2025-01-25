@@ -3,6 +3,7 @@ Heya, Im Nathaniel - A front end developer for Hastings Direct.
 
 Projects in Progress:
 - Poll.io
+- The Memory Atlas
 
 About Me:
 
