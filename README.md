@@ -2,8 +2,9 @@
 Heya, Im Nathaniel - A front end developer for Hastings Direct. 
 
 Projects in Progress:
-- Polls
-- Event Organiser
+- Pointing Poker
+- Clippy Chrome Extension
+  
 
 About Me:
 
