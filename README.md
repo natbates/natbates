@@ -3,8 +3,8 @@ Heya, Im Nathaniel - A front end developer for Hastings Direct.
 
 Projects in Progress:
 - Pointing Poker
-- Clippy Chrome Extension
-  
+- Real Estate Portfolio
+- Wedding Photographer Portfolio  
 
 About Me:
 
